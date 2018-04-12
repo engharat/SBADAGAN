@@ -1,1 +1,6 @@
-sbadagan repository
+SBADA-GAN CVPR 2018 code
+This is a preliminary release, as the code needs a massive cleanup being extremely verbose in this current state.
+In the Mnist_MnistM notebook can be found an example of how to run SBADA-GAN on Mnist -> MnistM Domain Adaptation task.
+
+To be added: datasets files in npy format as needed by the algorithm
+
