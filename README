@@ -4,3 +4,6 @@ In the Mnist_MnistM notebook can be found an example of how to run SBADA-GAN on 
 
 To be added: datasets files in npy format as needed by the algorithm
 
+There is a nice porting of SBADA-GAN to Pytorch that produce similar results on several experiments:
+https://github.com/naoto0804/pytorch-SBADA-GAN
+
