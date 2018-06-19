@@ -6,4 +6,6 @@ To be added: datasets files in npy format as needed by the algorithm
 
 There is a nice porting of SBADA-GAN to Pytorch that produce similar results on several experiments:
 https://github.com/naoto0804/pytorch-SBADA-GAN
+Finally, in the next days I will release my Pytorch version too, that is meant to become the standard SBADA-GAN source code written in
+a clear and readable format. 
 
